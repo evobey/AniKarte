@@ -34,7 +34,7 @@
 
 ```bash
 # 1. Depoyu klonla
-git clone https://github.com/kullaniciadi/AniKarte.git
+git https://github.com/evobey/AniKarte.git
 cd AniKarte
 
 # 2. Sanal ortam oluştur (önerilen)
