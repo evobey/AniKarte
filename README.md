@@ -2,8 +2,6 @@
 
 **AniKarte**, anime severler için özel olarak tasarlanmış, aralıklı tekrar (SRS) sistemiyle çalışan, oyunlaştırılmış bir Japonca kelime öğrenme uygulamasıdır.
 
-![Ekran Görüntüsü](screenshot.png) <!-- İlerde ekleyebilirsin -->
-
 ## ✨ Özellikler
 
 - 📚 **Anime Temalı Kelime Havuzu** – Naruto, One Piece, Demon Slayer ve daha fazlasından kelimeler.
@@ -17,6 +15,10 @@
 - 💾 **SQLite Veritabanı** – 5000+ kelime için optimize.
 - 📦 **Modüler Yapı** – main, ui, data, srs, audio, stats olarak ayrılmış.
 - 🌍 **Dışa/içe Aktarma** – JSON ile kelime listelerini paylaşabilirsin.
+
+## Ekran Görüntüleri
+Dark Tema <img width="1600" height="867" alt="AniKarte_DarkMod" src="https://github.com/user-attachments/assets/c1cfbe06-6f78-48d9-b915-c7f0f0c036e9" />
+White Tema <img width="1600" height="867" alt="AniKarte_WhiteMod" src="https://github.com/user-attachments/assets/4adc5c5f-3a72-47db-bc71-7dcdba452ba9" />
 
 ## 🖼️ Kısayollar
 
