@@ -80,9 +80,10 @@ Projeye katkıda bulunmak çok kolay!
 
     Bir Pull Request oluştur.
 
-📄 Lisans
+## 📄 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır – detaylar için LICENSE dosyasına bakın.
+Bu proje [MIT lisansı](LICENSE) ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
+
 🙏 Teşekkürler
 
     Anime topluluğuna ilham için
