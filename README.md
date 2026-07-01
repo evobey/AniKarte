@@ -46,3 +46,45 @@ pip install -r requirements.txt
 
 # 4. Çalıştır
 python main.py
+
+📦 Bağımlılıklar
+
+    Python 3.8+
+
+    tkinter (genelde yüklü gelir)
+
+    gtts (ses için)
+
+    pygame (ses oynatmak için)
+
+    matplotlib (grafikler için, isteğe bağlı)
+
+bash
+
+# Tüm bağımlılıklar
+pip install gtts pygame matplotlib
+
+🧩 Katkıda Bulunma
+
+Projeye katkıda bulunmak çok kolay!
+
+    Bu depoyu fork'la.
+
+    Kendi branch'ini oluştur (git checkout -b ozellik/harika-ekleme).
+
+    Değişikliklerini commit et (git commit -m 'Harika bir özellik ekledim').
+
+    Branch'ini pushla (git push origin ozellik/harika-ekleme).
+
+    Bir Pull Request oluştur.
+
+📄 Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır – detaylar için LICENSE dosyasına bakın.
+🙏 Teşekkürler
+
+    Anime topluluğuna ilham için
+
+    Tüm açık kaynak kütüphanelerin geliştiricilerine
+
+✨ İyi çalışmalar ve 頑張って (Ganbatte)! 🎌
