@@ -36,7 +36,7 @@ White Tema <img width="1600" height="867" alt="AniKarte_WhiteMod" src="https://g
 
 ```bash
 # 1. Depoyu klonla
-git https://github.com/evobey/AniKarte.git
+git clone https://github.com/evobey/AniKarte.git
 cd AniKarte
 
 # 2. Sanal ortam oluştur (önerilen)
